@@ -10,7 +10,8 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh; 
-    background: rebeccapurple;
+    /* background: rebeccapurple;  */
+    background-image: url('https://img.freepik.com/premium-photo/womens-sneakers-colored-background-top-view-womens-shoes_441923-3647.jpg');
     /* background: url('img_y.jpg') no-repeat;  */
     /* src: url('img_y.jpg');  */
     background-size: cover;
